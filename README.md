@@ -137,8 +137,8 @@ public class HarishThube {
 <td width="50%" valign="top">
 
 ### 🔹 Task Pilot — Project Management App
-[![Task Pilot](https://img.shields.io/badge/🔗_GitHub-00D9FF?style=for-the-badge&logo=github)](https://github.com/harishthube)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://github.com/harishthube)
+[![Task Pilot](https://img.shields.io/badge/🔗_GitHub-00D9FF?style=for-the-badge&logo=github)](https://github.com/Harryyy24/project-management-app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://project-management-app-h9su.vercel.app/login)
 
 A full-stack project management system enabling users to create, manage, and track projects and tasks with real-time progress updates.
 
@@ -152,8 +152,8 @@ A full-stack project management system enabling users to create, manage, and tra
 <td width="50%" valign="top">
 
 ### 🔹 GreenShelf — AI Plant E-commerce Platform
-[![GreenShelf](https://img.shields.io/badge/🔗_GitHub-00D9FF?style=for-the-badge&logo=github)](https://github.com/harishthube)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://github.com/harishthube)
+[![GreenShelf](https://img.shields.io/badge/🔗_GitHub-00D9FF?style=for-the-badge&logo=github)](https://github.com/Nikhi111/GreenShelf)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://nikhi111.github.io/)
 
 A team project (3 members) — an e-commerce platform for plants with an AI-based recommendation engine.
 
